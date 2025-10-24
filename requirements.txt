@@ -1,7 +1,7 @@
 absl-py==2.0.0
 accelerate==0.23.0
 addict==2.4.0
-aim==3.17.5
+# aim==3.17.5
 aim-ui==3.17.5
 aimrecords==0.0.7
 aimrocks==0.4.0
@@ -16,13 +16,13 @@ appdirs==1.4.4
 arrow==1.3.0
 astor==0.8.1
 async-timeout==4.0.3
-autoattack @ git+https://github.com/fra31/auto-attack@a39220048b3c9f2cca9a4d3a54604793c68eca7e
+# autoattack @ git+https://github.com/fra31/auto-attack@a39220048b3c9f2cca9a4d3a54604793c68eca7e
 Automat==22.10.0
 autoroot==1.0.1
 backoff==2.2.1
 base58==2.0.1
 bitsandbytes==0.43.2
-black==21.12b0
+# black==21.12b0
 blinker==1.7.0
 braceexpand==0.1.7
 Brotli==1.1.0
@@ -39,7 +39,7 @@ constantly==23.10.4
 contourpy==1.2.0
 contrastive-learner==0.1.1
 cycler==0.12.1
--e git+https://github.com/KaiyangZhou/Dassl.pytorch.git@c61a1b570ac6333bd50fb5ae06aea59002fb20bb#egg=dassl
+# -e git+https://github.com/KaiyangZhou/Dassl.pytorch.git@c61a1b570ac6333bd50fb5ae06aea59002fb20bb#egg=dassl
 databricks-cli==0.18.0
 DataProperty==1.0.1
 datasets==2.15.0
@@ -60,7 +60,7 @@ fastapi==0.104.1
 ffmpy==0.3.2
 filelock==3.13.1
 fire==0.5.0
-flake8==3.7.9
+# flake8==3.7.9
 Flask==3.0.0
 fonttools==4.46.0
 fqdn==1.5.1
@@ -126,7 +126,7 @@ matplotlib==3.8.2
 mbstrdecoder==1.1.3
 mccabe==0.6.1
 mdurl==0.1.2
-mkl-service==2.4.0
+mkl-service==2.4.1
 mlflow==2.9.1
 mmcv==1.3.8
 mmsegmentation==0.14.1
@@ -173,7 +173,7 @@ ply==3.11
 portalocker==2.8.2
 prettytable==3.9.0
 progressbar2==4.4.2
-promptsource @ git+https://github.com/bigscience-workshop/promptsource.git@7dab96a3eeb3717cea633705135ebc488885d709
+# promptsource @ git+https://github.com/bigscience-workshop/promptsource.git@7dab96a3eeb3717cea633705135ebc488885d709
 proto-plus==1.24.0
 protobuf==4.25.1
 py==1.11.0
@@ -218,7 +218,7 @@ responses==0.18.0
 RestrictedPython==7.0
 retry==0.9.2
 rich==13.7.1
-robustbench @ git+https://github.com/RobustBench/robustbench.git@47bf370c2328bb4b78425ea06574bafec1ea7b42
+# robustbench @ git+https://github.com/RobustBench/robustbench.git@47bf370c2328bb4b78425ea06574bafec1ea7b42
 rouge-score==0.1.2
 rsa==4.9
 ruamel.yaml==0.18.5
@@ -243,7 +243,7 @@ SQLAlchemy==2.0.23
 sqlitedict==2.1.0
 sqlparse==0.4.4
 starlette==0.27.0
-streamlit==0.82.0
+streamlit
 stylegan2-pytorch==1.8.9
 submitit==1.5.1
 sympy==1.12
@@ -276,7 +276,7 @@ tqdm-multiprocess==0.0.11
 trampoline==0.1.2
 transformers==4.37.0
 triton==2.1.0
-trl==0.9.6.dev0
+trl==0.9.6
 Twisted==23.10.0
 txt2tags==3.8
 typepy==1.3.2

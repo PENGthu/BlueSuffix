@@ -51,7 +51,7 @@ class ScriptArguments:
         default_factory=lambda: PPOConfig(
             seed=0,
             log_with="tensorboard",
-            task_name="gpt2-blueteam,
+            task_name="gpt2-blueteam",
             model_name="gpt2",
             query_dataset="SafetyBench",
             reward_model="gpt4o",
